@@ -1,0 +1,6 @@
+{
+  "name": "Actor Portrait Digital Asset Platform",
+  "description": "A high-fidelity digital portal for real-life actors and portrait asset licensing, featuring an interactive gallery, earnings leaderboard, contest center, and licensing confirmation workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
